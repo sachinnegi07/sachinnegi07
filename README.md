@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Sachin Negi
 
-<!--
-**sachinnegi07/sachinnegi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student from India
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+
+- Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- Artificial Intelligence (AI)
+
+---
+
+## 🎯 Goal
+
+To become a skilled Data Analyst and solve real-world business problems using data.
+
+---
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sachinnegi07
